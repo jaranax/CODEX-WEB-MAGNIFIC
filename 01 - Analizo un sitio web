@@ -1,4 +1,25 @@
+01 ANALIZAMOS UN SITIO WEB
+
 - Analiza el contenido y la UX de este sitio web dedicado a la venta de comida: https://www.[URL]
 - Con toda la información que encuentres genera un archivo .md, pero cambiando el nombre de la empresa por "XXXX" y las comidas por platos y precios de la cocina italiana.
 - Ignora los colores y el diseño del sitio web.
 - Este archivo .md nos servirá para crear un sitio web con las mismas funciones.
+
+02 DISEÑO DL SITIO WEB
+
+# Diseño del sitio web
+
+- Diseña un sitio web profesional con UX y UI exquisitas para XXX utilizando toda la información que obtuviste del sitio web anterior.
+- Simplifica la UX de los cards de producto. Los cards del diseño original tienen demasiadas opciones; en el nuevo diseño muestra esas opciones en una modal
+  que se abra cuando el usuario haga click o tap sobre la card.
+- Los colores que tienes que usar te los dejo en una imagen adjunta a estas indicaciones.
+- Usa 1 o 2 fuentes que queden bien con la temática del sitio web y que, a su vez, se lean perfectamente en formatos desktop, tablet y mobile.
+
+
+# Logo e imágenes
+
+- Genera logo de XXX y todas las imágenes de los platos con Magnific.com.
+- Crea un proyecto en Magnifica llamado G26-008 para guardar allí el logo y las imágenes.
+- Usa el comando `images_generate_svg` para crear un logo para XXX, minimalista, monocolor, moderno y con estilo italiano; el logo debe funcionar perfectamente en cualquier tamaño.
+- Usa el comando `images_generate` para crear una imagen para cada slide del hero y 2 imágenes para cada plato (un plano general y un detalle).
+- Todas las imágenes deben tener estilo italiano, moderno y minimalista, y funcionar perfectamente con el diseño del sitio.
