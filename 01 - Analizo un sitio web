@@ -16,10 +16,29 @@
 - Usa 1 o 2 fuentes que queden bien con la temática del sitio web y que, a su vez, se lean perfectamente en formatos desktop, tablet y mobile.
 
 
-# Logo e imágenes
+# Logo e imágenes con Magnific
 
 - Genera logo de XXX y todas las imágenes de los platos con Magnific.com.
 - Crea un proyecto en Magnifica llamado G26-008 para guardar allí el logo y las imágenes.
 - Usa el comando `images_generate_svg` para crear un logo para XXX, minimalista, monocolor, moderno y con estilo italiano; el logo debe funcionar perfectamente en cualquier tamaño.
 - Usa el comando `images_generate` para crear una imagen para cada slide del hero y 2 imágenes para cada plato (un plano general y un detalle).
 - Todas las imágenes deben tener estilo italiano, moderno y minimalista, y funcionar perfectamente con el diseño del sitio.
+- Pegamos nuestra paleta de colores
+
+
+--= CODEX DEBERÍA HACERNOS PREGUNTAS =--
+
+1. **Idioma del copy.** El .md quedó en español pero el negocio ahora está en Bologna. ¿Dejo los textos en español tal como están, 
+   los paso a italiano (más coherente con el público real), o hago un selector bilingüe IT/ES en el header?
+
+2. **Formato de entrega.** ¿Preferís un sitio estático multi-archivo (`index.html` + `styles.css` + `app.js` + `productos.json` + carpeta de imágenes),
+   con el catálogo en JSON como recomienda la spec y listo para subir a un hosting? ¿O un único `index.html` autocontenido, más fácil de abrir pero menos mantenible? También puedo publicarlo como Artifact para que lo veas por link.
+
+3. **Dirección de arte de las imágenes.** Mi recomendación es fotografía editorial minimalista: realista, luz natural suave, fondos neutros tomados de tu paleta,
+   cerámica artesanal y mucho aire. Encaja con “moderno y minimalista” y es lo que mejor vende comida. Las alternativas serían foto cálida rústica (trattoria: madera, mantel a cuadros, luz dorada — más apetitosa pero menos minimalista) o ilustración vectorial a juego con el logo (muy coherente, pero la comida ilustrada convierte peor).
+
+4. **Alcance de las imágenes.** Las cuentas: 5 del hero + 76 de platos (38 × 2) = 81 imágenes. El costo no es problema (~4.900 créditos de los 2,6M que tenés),
+   pero son bastantes minutos de generación. ¿Voy con el set completo, o preferís que arranque con el hero + los platos de una o dos categorías para que valides el estilo antes de generar el resto? Lo pregunto porque si el estilo no te cierra, prefiero descubrirlo en la imagen 8 y no en la 81.
+
+Si querés, respondeme solo lo que tengas decidido y yo tomo el resto con mi criterio: español, sitio multi-archivo, fotografía editorial minimalista
+y una tanda de prueba antes del set completo.
