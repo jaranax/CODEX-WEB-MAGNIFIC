@@ -32,7 +32,8 @@
    los paso a italiano (más coherente con el público real), o hago un selector bilingüe IT/ES en el header?
 
 2. **Formato de entrega.** ¿Preferís un sitio estático multi-archivo (`index.html` + `styles.css` + `app.js` + `productos.json` + carpeta de imágenes),
-   con el catálogo en JSON como recomienda la spec y listo para subir a un hosting? ¿O un único `index.html` autocontenido, más fácil de abrir pero menos mantenible? También puedo publicarlo como Artifact para que lo veas por link.
+   con el catálogo en JSON como recomienda la spec y listo para subir a un hosting? ¿O un único `index.html` autocontenido, más fácil de abrir pero menos mantenible?
+   También puedo publicarlo como Artifact para que lo veas por link.
 
 3. **Dirección de arte de las imágenes.** Mi recomendación es fotografía editorial minimalista: realista, luz natural suave, fondos neutros tomados de tu paleta,
    cerámica artesanal y mucho aire. Encaja con “moderno y minimalista” y es lo que mejor vende comida. Las alternativas serían foto cálida rústica (trattoria: madera, mantel a cuadros, luz dorada — más apetitosa pero menos minimalista) o ilustración vectorial a juego con el logo (muy coherente, pero la comida ilustrada convierte peor).
